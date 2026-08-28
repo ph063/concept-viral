@@ -1,1 +1,62 @@
 # concept-viral
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Masterpack IA Viral 2026 - Domine as Redes com Inteligência Artificial</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 font-sans antialiased">
+
+  <!-- Hero Section -->
+  <header class="max-w-4xl mx-auto px-6 pt-16 pb-12 text-center">
+    <span class="bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 px-4 py-1.5 rounded-full text-xs font-semibold uppercase tracking-wider">
+      Tendência Viral 2026
+    </span>
+    <h1 class="text-4xl md:text-6xl font-extrabold mt-6 tracking-tight leading-tight">
+      Crie Fotos Profissionais e Conteúdos Virais em <span class="text-indigo-400">Menos de 60 Segundos</span>
+    </h1>
+    <p class="mt-6 text-lg text-slate-400 max-w-2xl mx-auto">
+      Receba os prompts exatos e fluxos de IA utilizados pelos maiores criadores de conteúdo para gerar autoridade, avatares hiper-realistas e escalar suas vendas no piloto automático.
+    </p>
+    
+    <div class="mt-8 flex flex-col sm:flex-row justify-center gap-4">
+      <a href="SEU_LINK_DE_CHECKOUT_AQUI" class="bg-indigo-600 hover:bg-indigo-500 text-white font-bold py-4 px-8 rounded-xl text-lg shadow-lg shadow-indigo-600/30 transition duration-200">
+        Quero Acesso Imediato — R$ 47,00
+      </a>
+    </div>
+    <p class="mt-3 text-xs text-slate-500">Acesso vitalício • Download imediato no Pix ou Cartão</p>
+  </header>
+
+  <!-- O que está incluso -->
+  <section class="max-w-4xl mx-auto px-6 py-12 border-t border-slate-800">
+    <h2 class="text-2xl font-bold text-center mb-8">O que você vai receber no seu e-mail:</h2>
+    <div class="grid md:grid-cols-3 gap-6">
+      <div class="bg-slate-900 p-6 rounded-2xl border border-slate-800">
+        <div class="text-indigo-400 font-bold text-xl mb-2">01. Pack Prompts de Elite</div>
+        <p class="text-slate-400 text-sm">Comandos prontos para ChatGPT, Gemini e Midjourney para criar fotos corporativas e retratos estilizados sem gastar com estúdio.</p>
+      </div>
+      <div class="bg-slate-900 p-6 rounded-2xl border border-slate-800">
+        <div class="text-indigo-400 font-bold text-xl mb-2">02. Templates de Vídeo Curto</div>
+        <p class="text-slate-400 text-sm">Roteiros e ganchos (hooks) de alta retenção desenhados especificamente para Reels e TikTok.</p>
+      </div>
+      <div class="bg-slate-900 p-6 rounded-2xl border border-slate-800">
+        <div class="text-indigo-400 font-bold text-xl mb-2">03. Guia de Agentes de IA</div>
+        <p class="text-slate-400 text-sm">Passo a passo para configurar um assistente automatizado no WhatsApp para atendimento e vendas 24/7.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Garanta Agora (CTA Final) -->
+  <section class="bg-indigo-950/40 border-t border-b border-indigo-900/50 py-16 text-center px-6">
+    <h2 class="text-3xl font-bold">Pronto para automatizar sua presença digital?</h2>
+    <p class="text-slate-400 mt-2">Oferta especial de lançamento por tempo limitado.</p>
+    <a href="SEU_LINK_DE_CHECKOUT_AQUI" class="inline-block mt-8 bg-indigo-600 hover:bg-indigo-500 text-white font-bold py-4 px-10 rounded-xl text-lg shadow-xl transition">
+      Garantir Meu Masterpack por R$ 47
+    </a>
+  </section>
+
+</body>
+</html>
+
